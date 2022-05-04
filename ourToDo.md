@@ -6,9 +6,9 @@
 
   - [ ] create a `News` component in 'pages' folder which has local state and renders:
   - [x] A `Greeting` component which has local state
-  - [ ] A `ReaderCount` component which has local state -created
-  - [ ] A `FeaturedArticle` component that receives `chosenArticle` as a prop -created
-  - [ ] A `Headlines` component that receives `articles` and `handleArticleSelect` as props - created
+  - [x] A `ReaderCount` component which has local state -created
+  - [x] A `FeaturedArticle` component that receives `chosenArticle` as a prop -created
+  - [x] A `Headlines` component that receives `articles` and `handleArticleSelect` as props - created
 
 - [ ] adjust App to render only `Header`, `News` and `Footer`
 

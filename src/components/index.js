@@ -1,4 +1,4 @@
-export { default as FaveButton } from './FavButton';
+export { default as FaveButton } from './FaveButton';
 export { default as Greeting } from './Greeting';
 export { default as FeaturedArticle } from './FeaturedArticle';
 export { default as Headlines } from './Headlines';

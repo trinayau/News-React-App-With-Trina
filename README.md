@@ -1,17 +1,18 @@
-# News React App With Trina and Aafthab
-Our React App showing popular quotes from poems such as Jabberwocky- a refactoring exercise created by @getfutureproof.
-## Refactor component structure
-  - [x] create 'components', 'pages' and 'layout' folders with index.js files - what is meant to go in pages?
-  - [x] move FaveButton and its tests to own folder in 'components'
+# React Newsies
 
-  - [ ] create a `News` component in 'pages' folder which has local state and renders:
-  - [x] A `Greeting` component which has local state
-  - [ ] A `ReaderCount` component which has local state -created
-  - [ ] A `FeaturedArticle` component that receives `chosenArticle` as a prop -created
-  - [ ] A `Headlines` component that receives `articles` and `handleArticleSelect` as props - created
+## How to use this repo
+This repo has multiple branches with a React app at various stages of completion.
 
-- [ ] adjust App to render only `Header`, `News` and `Footer`
+We recommend that you fork and clone this repo and code along throughout the week!
 
-## Add new components
-- [ ] create a basic `Header` layout component - created
-- [ ] create a basic `Footer` layout component - created
+- Fork: click button top right
+- Clone down your fork: `git clone https://github.com/<your-gh-username>/fp_codealong_react_newsies newsies`
+- `cd newsies`
+- Create a fresh copy of the default `starter` branch to work on: `git co -b codealong`
+
+### Branches
+- `starter` => A content-only starting point you can clone down to code along with
+- `state-eventing` => The complete version of the code workshopped in the React State & Eventing live lecture
+- `props-structure` => The complete version of the code workshopped in the React Props & File Structure live lecture
+- `nav-rrv6` => The complete version of the code workshopped in the React Navigation live lecture
+- `useEffect-rrv6` => The complete version of the code workshopped in the React useEffect live lecture
